@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tester</string>
+    <string name="hello">Здравствуйте!\n Для того, чтобы начать тестирование\n, введите свое имя\n и нажмите кнопку СТАРТ</string>
+    <string name="start">Старт</string>
+    <string name="name">Имя</string>
+    <string name="please_write_your_name">Пожалуйста, введите имя</string>
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+    <string name="end_testing_title">ЗАВЕРШИТЬ</string>
+    <string name="are_you_sure">Вы уверены, что хотите завершить тестирование?</string>
+    <string name="yes">Да</string>
+    <string name="no">No</string>
+</resources>
